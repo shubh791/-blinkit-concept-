@@ -1,0 +1,12 @@
+{
+  "name": "Blinkit — Instant Delivery",
+  "short_name": "Blinkit",
+  "description": "Groceries, gadgets, medicines delivered in 10 minutes.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07080a",
+  "theme_color": "#c9ff3d",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
