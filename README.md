@@ -11,7 +11,6 @@ A pixel-perfect, fully-animated Next.js concept recreation of the **Blinkit** in
 [![License](https://img.shields.io/badge/License-MIT-c9ff3d?logoColor=black)](#license)
 [![Deploy](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)](https://vercel.com/)
 
-[Live Demo](#) · [Report Bug](https://github.com/shubh791/blinkit/issues) · [Connect](#author)
 
 </div>
 
